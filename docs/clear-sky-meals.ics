@@ -1,0 +1,239 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Clear Sky School Meals//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Clear Sky School Meals
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-11-02@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Bacon\, Egg & Cheese Turnover\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Limited Quantity Kitchen Manager Menu Special\, Dunkin Super Stik® w/Protein\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: Dino Nuggets w/Honey Buttered Croissant\, Hercules Roll-Up\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-11-03@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Orange Cranberry Muffin Square w/Sausage\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Fruit Crunch Parfait\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: Marinara Meatballs w/Garlic Knot\, Winter Bakery Bistro Box\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-11-04@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Bacon & Cheese Egg Bite w/Fresh Baked Croissant\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Fruit Crunch Parfait\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: Carnitas Sheet Pan Quesadilla\, Hummus Power Pack Bistro\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-11-05@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Smoothie w/Cinnamon Sugar Toast\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: Sweet Chili Chicken w/Veggie Fried Rice\, Sweet Chili Tofu w/Veggie Fried Rice\, Beef and Cheddar Burrito\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-11-09@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Manager Special (Availability varies by school please check with your kitchen for today's offerings)\, Strawberry Pancake Puffs\, Bacon\, Egg & Cheese Turnover\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: Mac & Cheese w/Honey Buttered Croissant\, Beef and Cheddar Burrito\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-11-10@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Egg & Cheese\, Breakfast Sandwich\, Sausage\, Egg & Cheese\, Breakfast Sandwich\, Sausage & Cheese\, Breakfast Sandwich\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: Hot Dog\, Tater Squares\, Hummus Power Pack Bistro\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-11-11@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Smoothie w/Cinnamon Sugar Toast\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: Cheese Pizza\, Pepperoni Pizza\, BBQ Chicken Pizza\, Personal Deep Dish\, Uncrustable Bistro Box\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-11-12@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Bacon\, Egg & Cheese Breakfast Taco\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: Chicken & Vegetable Ramen Soup\, Winter Bakery Bistro Box\, Protein Power Bistro Box\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-11-13@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Peach Croissant\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: Toasted Ravioli w/Marinara\, Hercules Roll-Up\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-11-16@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Country Gravy Breakfast Stick\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: Chicken Tenders\, Fries\, Sweet Potato\, Bean & Cheese Relleno Burrito\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-11-17@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Bakery Fresh Breakfast Combo\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: Orange Chicken Bowl\, Hercules Roll-Up\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-11-18@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Bacon & Cheese Egg Bite w/Fresh Baked Croissant\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: Thanksgiving Feast\, Hummus Power Pack Bistro\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-11-19@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Fresh Baked Cinnamon Roll\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: Beef Soft Tacos\, Berry Crunch Parfait\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-11-20@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Egg & Cheese\, Breakfast Sandwich\, Sausage\, Egg & Cheese\, Breakfast Sandwich\, Sausage & Cheese\, Breakfast Sandwich\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: Italian Bosco Sticks\, Italian Chicken Roll-Up\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-11-30@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Bacon\, Egg & Cheese Turnover\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: Pasta w/Beef Ragu & Garlic Cheese Toast\, Uncrustable Bistro Box\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-12-01@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Egg & Cheese\, Breakfast Sandwich\, Sausage\, Egg & Cheese\, Breakfast Sandwich\, Sausage & Cheese\, Breakfast Sandwich\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: Oven Roasted Drumstick w/Buttered Noodles\, Hummus Power Pack Bistro\, Salad Greens\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-12-02@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Smoothie w/Cinnamon Sugar Toast\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: Cheese Pizza\, Pepperoni Pizza\, BBQ Chicken Pizza\, Personal Deep Dish\, Italian Chicken Roll-Up\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-12-03@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Bacon\, Egg & Cheese Breakfast Taco\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: Hamburger\, Cheeseburger\, Impossible Burger\, Tater Squares\, Hercules Roll-Up\, Salad Greens\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-12-04@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Peach Croissant\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: Broccoli Cheese Soup w/Fresh Baked Croissant\, Beef and Cheddar Burrito\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-12-07@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Country Gravy Breakfast Stick\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: Birria Quesadilla\, Hummus Power Pack Bistro\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-12-08@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Bakery Fresh Breakfast Combo\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: French Toast with Cheddar Omelet\, Hercules Roll-Up\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-12-09@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Bacon & Cheese Egg Bite w/Fresh Baked Croissant\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: Marinara Meatballs w/Garlic Knot\, Winter Bakery Bistro Box\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-12-10@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Smoothie w/Cinnamon Sugar Toast\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: Sweet Chili Chicken w/Veggie Fried Rice\, Sweet Chili Tofu w/Veggie Fried Rice\, Beef and Cheddar Burrito\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-12-11@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Mini Bagel Stuffer w/Strawberry Cream Cheese\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: Hot Dog\, Roasted Fingerling Potatoes\, Uncrustable Bistro Box\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-12-14@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Sausage Pancake Bites\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\n\nLunch: Mac & Cheese w/Honey Buttered Croissant\, Beef and Cheddar Burrito\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-12-15@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Egg & Cheese\, Breakfast Sandwich\, Sausage\, Egg & Cheese\, Breakfast Sandwich\, Sausage & Cheese\, Breakfast Sandwich\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: Toasted Ravioli w/Marinara\, Hercules Roll-Up\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-12-16@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Smoothie w/Cinnamon Sugar Toast\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: Cheese Pizza\, Pepperoni Pizza\, BBQ Chicken Pizza\, Personal Deep Dish\, Hummus Power Pack Bistro\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-12-17@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Bacon\, Egg & Cheese Breakfast Taco\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Breakfast Fruit\, Variety\, Milk\, Variety\n\nLunch: Chicken & Vegetable Ramen Soup\, Winter Bakery Bistro Box\, Protein Power Bistro Box\, Harvest Bar\, Milk\, Variety
+END:VEVENT
+BEGIN:VEVENT
+UID:clear-sky-meals-2026-12-18@nutrislice-calendar
+DTSTAMP:20261104T170041Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Clear Sky Breakfast & Lunch
+DESCRIPTION:Breakfast: Peach Croissant\, Rise & Shine Cereal Combo\, Breakfast Protein Pack\, Breakfast Fruit\, Variety\, Milk\, Variety
+END:VEVENT
+END:VCALENDAR
